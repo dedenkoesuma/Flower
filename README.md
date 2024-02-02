@@ -5,7 +5,7 @@ This repository contains examples and tutorials for the web technologies HTML, S
 Using This : 
 
 ```
-$ git clone https://github.com/naveen-kumawat/Flower.git
+$ git clone https://github.com/dedenkoesuma/Flower.git
 ```
 
 ### Downlode Ruby 
